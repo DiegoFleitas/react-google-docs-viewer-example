@@ -14,7 +14,7 @@ class App extends Component {
         <GoogleDocsViewer
           width="600px"
           height="780px"
-          fileUrl="https://github.com/mozilla/pdf.js/raw/master/examples/helloworld/helloworld.pdf"
+          fileUrl="https://docs.google.com/document/d/1XN2m7upUDxLRgr6OY6R1feB0Kfer5DrB6FnEtV5oxxI/export?format=pdf"
         />
       </div>
     );
